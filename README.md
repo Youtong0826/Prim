@@ -9,5 +9,6 @@ Prim 是一款利用 Pycord 與 Youtube-dl 所製作的音樂機器人，可以�
 `/resume` 取消播放當前的歌曲 \
 `/skip` 跳過當前的歌曲 \
 `/queue` 查看佇列 \
+`/clearqueue` 清空佇列 \
 `/dc` 中斷連結 \
 `/np` 查看當前的歌曲 
