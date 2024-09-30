@@ -1,6 +1,7 @@
-# Prim
+## Prim
 
-## 使用介紹
+### 介紹
+Prim 是一款利用 Pycord 與 Youtube-dl 所製作的音樂機器人，可以在 Discord 語音頻道播放音樂。
 
 ### 內建指令
 `/paly` 播放歌曲，輸入關鍵字或是 Youtube 連結 \
